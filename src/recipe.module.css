@@ -5,15 +5,20 @@
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    background: white;
     align-items: center;
-    border-bottom-width: 15px;
+    line-height: 1.7;
     min-width: 40%;
     min-height: 50%;
+    background-color: cornsilk;
+    border-bottom: 1px solid;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
 }
 
 .image {
     border-radius: 40%;
-    width: 120px;
-    height: 120px;
+    width: 180px;
+    height: 180px;
 }
